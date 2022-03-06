@@ -1,2 +1,2 @@
-# projects
-These are my latest projects
+# Projects
+These are latest Portfolio Projects
